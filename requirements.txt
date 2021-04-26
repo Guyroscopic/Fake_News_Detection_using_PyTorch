@@ -1,0 +1,5 @@
+nltk
+gensim
+torch
+numpy
+pandas
